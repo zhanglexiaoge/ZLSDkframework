@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/miugodigital/Library/Developer/Xcode/DerivedData/ZLSDK-cqefirwzeonrdxdpcmwiahgafqyv/Build/Products/Debug-iphonesimulator/ZLSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "TemplateViewController.h",
+          'external-contents': "/Users/miugodigital/Desktop/SDKDemo/SDK/ZLSDK/ZLSDK/TemplateViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZLSDK-Swift.h",
+          'external-contents': "/Users/miugodigital/Library/Developer/Xcode/DerivedData/ZLSDK-cqefirwzeonrdxdpcmwiahgafqyv/Build/Products/Debug-iphonesimulator/ZLSDK.framework/Headers/ZLSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZLSDK.h",
+          'external-contents': "/Users/miugodigital/Desktop/SDKDemo/SDK/ZLSDK/ZLSDK/ZLSDK.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/miugodigital/Library/Developer/Xcode/DerivedData/ZLSDK-cqefirwzeonrdxdpcmwiahgafqyv/Build/Products/Debug-iphonesimulator/ZLSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/miugodigital/Desktop/SDKDemo/SDK/ZLSDK/build/ZLSDK.build/Debug-iphonesimulator/ZLSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
